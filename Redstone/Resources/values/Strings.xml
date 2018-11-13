@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Randomize</string>
+    <string name="button_default">Default</string>
+	<string name="app_name">Redstone Utility</string>
+	<string name="utility_name">Map Generator</string>
+    <string name="success_default">Default map generated.</string>
+    <string name="success_random">Random map generated.</string>
+    <string name="default_no_random">No random generations yet</string>
+    <string name="debug_info">This app is designed to be a template, which demos a randomly-generated grid of block images (called a Redstone Map). Please change the utility name and action button name in Strings.xml in the source code.</string>
+</resources>

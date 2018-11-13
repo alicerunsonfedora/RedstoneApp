@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<color name="theme_redstonedefaults_background">?android:attr/colorBackground</color>
+	<color name="theme_custom_background">?android:attr/actionMenuTextColor</color>
+	<style name="Theme.RedstoneDefaults" parent="@android:style/Theme.Material.Light.DarkActionBar">
+		<item name="android:colorPrimary">#ffd32f2f</item>
+		<item name="android:colorPrimaryDark">#ffb71c1c</item>
+		<item name="android:colorAccent">#ffff8a80</item>
+		<item name="android:colorControlActivated">#ffff8a80</item>
+		<item name="android:colorControlNormal">#ffb71c1c</item>
+		<item name="android:colorButtonNormal">#ffff5252</item>
+		<item name="android:windowBackground">?android:attr/colorBackground</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">#ffb71c1c</item>
+	</style>
+</resources>
